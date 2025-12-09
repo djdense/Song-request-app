@@ -10,8 +10,8 @@ public class EmailReader {
 
     public static void main(String[] args) {
         final String host = "imap.gmail.com";
-        final String username = "contact@absynthdj.com";
-        final String password = "bwfv wbzc ummk vqwe";
+        final String username = "enter email here";
+        final String password = "put app password here";
         final String folderName = "INBOX";
         final String subjectFilter = "Song Request";
 
@@ -65,3 +65,4 @@ public class EmailReader {
         }
     }
 }
+
